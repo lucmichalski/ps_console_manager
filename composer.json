@@ -1,0 +1,23 @@
+{
+  "name": "adilis/psconsolemanager",
+  "description": "",
+  "authors": [
+    {
+      "name": "ADILIS",
+      "email": "contact@adilis.fr"
+    }
+  ],
+  "require": {
+    "php": ">=5.6.0",
+    "padraic/phar-updater": "^1.0"
+  },
+  "autoload": {},
+  "config": {
+    "preferred-install": "dist",
+    "prepend-autoloader": false,
+    "optimize-autoloader": true,
+    "vendor-dir": "src/vendor"
+  },
+  "type": "prestashop-module",
+  "require-dev": {}
+}

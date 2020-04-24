@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>ps_console_manager</name>
+    <displayName><![CDATA[Manage Prestashop console]]></displayName>
+    <version><![CDATA[0.1.0]]></version>
+    <description><![CDATA[Install and upgrade Prestashop console]]></description>
+    <author><![CDATA[Adilis]]></author>
+    <tab><![CDATA[tab]]></tab>
+	<confirmUninstall><![CDATA[Are you sure ?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>
